@@ -1,2 +1,3 @@
-# docs
-Documentation and design discussion
+# Documentation
+
+Documentation and design discussion. Organize using [Diátaxis](https://diataxis.fr/).
