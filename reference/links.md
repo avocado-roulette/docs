@@ -2,6 +2,12 @@
 
 Largely unstructured dump of reference / future work links.
 
+## Business
+
+[Imbue](https://imbue.com/)
+
+[Symbolica AI](https://www.symbolica.ai/)
+
 ## Development
 
 [Create a dev container &gt; Dockerfile](https://code.visualstudio.com/docs/devcontainers/create-dev-container#_dockerfile)
