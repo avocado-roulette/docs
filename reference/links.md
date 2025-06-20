@@ -12,11 +12,13 @@ Largely unstructured dump of reference / future work links.
 
 [Integrate with External Tools via Tasks ](https://code.visualstudio.com/docs/debugtest/tasks#_custom-tasks)
 
+[lean-lsp-mcp](https://github.com/oOo0oOo/lean-lsp-mcp)
+
 ## Learning
 
 [Natural number game](https://adam.math.hhu.de/#/g/leanprover-community/nng4)
 
-[Theorem proving in Lean 4](https://lean-lang.org/theorem_proving_in_lean4/title_page.html)
+[Theorem proving in Lean 4](https://leanprover.github.io/theorem_proving_in_lean4/)
 
 ## Mathematics
 
