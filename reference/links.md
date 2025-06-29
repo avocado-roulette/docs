@@ -22,6 +22,8 @@ Largely unstructured dump of reference / future work links.
 
 ## Learning
 
+[Mathematics in Lean](https://leanprover-community.github.io/mathematics_in_lean/mathematics_in_lean.pdf)
+
 [Natural number game](https://adam.math.hhu.de/#/g/leanprover-community/nng4)
 
 [Theorem proving in Lean 4](https://leanprover.github.io/theorem_proving_in_lean4/)
