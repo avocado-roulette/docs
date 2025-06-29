@@ -61,6 +61,9 @@ Examples:
 Cons: does not support automatic pull request preview, is
 [trickier to publish to the root of a domain](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#user-and-organization-pages-sites).
 
+Additional, albeit biased,
+[rationale on why to use GitHub Pages](https://about.readthedocs.com/comparisons/github-pages/).
+
 ## [Docusaurus](https://docusaurus.io/)
 
 Examples:
