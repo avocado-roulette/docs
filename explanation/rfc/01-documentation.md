@@ -54,9 +54,10 @@ platform.
 
 ## [GitHub Pages](https://docs.github.com/en/pages)
 
-Examples:
+Widely used static site hosting platform. Examples:
 
 - https://microsoft.github.io/presidio/
+- https://azure.github.io/autorest/
 
 Cons: does not support automatic pull request preview, is
 [trickier to publish to the root of a domain](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#user-and-organization-pages-sites).
@@ -68,7 +69,22 @@ Additional, albeit biased,
 
 Examples:
 
+- https://python.langchain.com/docs/
 - https://docs.litellm.ai/
 
 Docusaurus is _very_ powerful and looks slightly better than MkDocs, but requires more
 frontend expertise to fully leverage.
+
+## [Portray](https://timothycrosley.github.io/portray/)
+
+Documentation framework with almost no boilerplate; primary cons are:
+
+- Effectively abandoned: no meaningful commits in 3+ years.
+- Based on MkDocs but the TOML-based MkDocs configuration can
+  [quickly get very tricky to read](https://timothycrosley.github.io/portray/docs/quick_start/4.-configuration/)
+
+## Azure web apps
+
+Pro: supports backend realtime.
+
+Con: infra setup, billing, etc.
