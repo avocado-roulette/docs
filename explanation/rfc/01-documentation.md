@@ -88,3 +88,7 @@ Documentation framework with almost no boilerplate; primary cons are:
 Pro: supports backend realtime.
 
 Con: infra setup, billing, etc.
+
+## [GitHub Wikis](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis)
+
+Probably the easiest to set up, but essentially no control over rendering / format.
