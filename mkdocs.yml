@@ -8,7 +8,7 @@ nav:
 - Reference:
   - Links: reference/links.md
 - Explanation:
-  - 'RFC 1 Documentation': explanation/rfc/01-documentation.md
+  - 'RFC 1: Documentation': explanation/rfc/01-documentation.md
 
 plugins:
 - same-dir
