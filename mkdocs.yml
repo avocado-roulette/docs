@@ -4,11 +4,11 @@ repo_name: avocado-roulette/docs
 docs_dir: .
 
 nav:
-  - Home: README.md
-  - Reference:
-    - Links: reference/links.md
-  - Explanation:
-    - 'RFC 1 Documentation': explanation/rfc/01-documentation.md
+- Home: README.md
+- Reference:
+  - Links: reference/links.md
+- Explanation:
+  - 'RFC 1 Documentation': explanation/rfc/01-documentation.md
 
 plugins:
 - same-dir
@@ -16,6 +16,6 @@ plugins:
 theme:
   name: material
   features:
-    - content.code.copy
+  - content.code.copy
 
 strict: true
