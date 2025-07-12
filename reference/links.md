@@ -4,6 +4,8 @@ Largely unstructured dump of reference / future work links.
 
 ## Business
 
+[Harmonic AI](https://harmonic.fun/) ([Bloomberg](https://archive.ph/9gPri))
+
 [Imbue](https://imbue.com/)
 
 [Symbolica AI](https://www.symbolica.ai/)
