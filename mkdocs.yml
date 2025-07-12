@@ -17,5 +17,8 @@ theme:
   name: material
   features:
   - content.code.copy
+  palette:
+    primary: green
+    accent: light green
 
 strict: true
