@@ -1,0 +1,24 @@
+site_name: Avocado Roulette
+repo_url: https://github.com/avocado-roulette/docs
+repo_name: avocado-roulette/docs
+docs_dir: .
+
+nav:
+- Home: README.md
+- Reference:
+  - Links: reference/links.md
+- Explanation:
+  - 'RFC 1: Documentation': explanation/rfc/01-documentation.md
+
+plugins:
+- same-dir
+
+theme:
+  name: material
+  features:
+  - content.code.copy
+  palette:
+    primary: green
+    accent: light green
+
+strict: true
